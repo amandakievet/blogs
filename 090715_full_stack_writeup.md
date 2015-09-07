@@ -3,7 +3,7 @@
 
 ## Overview
 
-Last week, I attended [Full Stack Fest](http://fullstackfest.com/) in beautiful Barcelona. Full Stack Fest is actually two seperate conferences -- Baruco (Barcelona Ruby Conf), and Future JS -- with a day of workshops in between. There were also 4 nights of sponsored meetups/parties where I got the chance to mingle with international Rubyists and Javascripters.
+Last week, I attended [Full Stack Fest](http://fullstackfest.com/) in beautiful Barcelona. Full Stack Fest is actually two separate conferences -- Baruco (Barcelona Ruby Conf), and Future JS -- with a day of workshops in between. There were also 4 nights of sponsored meetups/parties where I got the chance to mingle with international Rubyists and Javascripters.
 
 Disclaimer: this was my first multi-day conference <sup id="a1">[1](#f1)</sup> so I don't have a lot of conference experience off of which to base my opinions. It seemed like most attendees agreed though when I say FSF was superbly-organized. Also note that this is not a complete list of all the talks, only the ones I took the most notes on.
 
@@ -145,9 +145,14 @@ This was the most visually-appealing talk of the conference for me. I strongly r
 
 ######Footnotes
  <b id="f1" > 1 </b> I attended [Goruco](http://goruco.com/), a one day Ruby conference in New York City, earlier this summer. [↩](#a1)
+ 
  <b id="f2" > 2 </b> Just stick a bunch of stuff into this hash without thinking about it then when you want to pull something out it's like a bag of glass. [↩](#a2)
+ 
  <b id="f3" > 3 </b> [Who Should Pay?](https://www.aaron-gustafson.com/notebook/who-should-pay/) [↩](#a3)
+ 
  <b id="f4" > 4 </b> [The Practical Case for Progressive Enhancement](http://sixtwothree.org/posts/the-practical-case-for-progressive-enhancement) [↩](#a4)
+ 
  <b id="f5" > 5 </b> [BBC Future Media Standards and Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/progressive-enhancement.shtml) [↩](#a5)
+ 
  <b id="f6" > 6 </b> In this case, Heiner used [alea node model](https://github.com/coverslide/node-alea) [↩](#a6)
 
