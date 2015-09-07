@@ -94,7 +94,7 @@ Really good explanation of what a transducer is and how to use them. Check out t
 - There are a lot of different ways to generate content: Midpoint Displacement Algorithm, Iterative subdivision, Markov Chains, Perlin Noise, Simplex Noise, Voronoi Noise, L-Systems/Grammar-based modeling
 - npm has tools to generate these `npm install perlin simplex-noise voronoi l-system markoff`
 - Lessons learned from generating a map of a city using these tools:
--- Use a seedable randomness source<sup id="a6">[6](#f6)</sup>so you can: use automated testing and reproduce results using the same seed
+-- Use a seedable randomness source<sup id="a6">[6](#f6)</sup> so you can: use automated testing and reproduce results using the same seed
 -- Log Everything
 -- Configure Everything - good parameters are important
 -- Use the appropriate algorithm. If you use a big subdivided square for the main grid system, it's hard to create diagonal lines.
