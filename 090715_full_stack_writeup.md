@@ -1,4 +1,5 @@
 ## Full Stack Fest Review
+![Full Stack Fest pic](https://s3-us-west-2.amazonaws.com/akievetphotos/fullstack.JPG)
 
 ### Overview
 
@@ -6,7 +7,7 @@ Last week, I attended [Full Stack Fest](http://fullstackfest.com/) in beautiful 
 
 Disclaimer: this was my first multi-day conference <sup id="a1">[1](#f1)</sup>, so I don't have a lot of conference experience off of which to base my opinions. It seemed like most attendees agreed though when I say FSF was superbly-organized.
 
-Note: this is not a complete list of all the talks given at FSF.
+Note: this is not a complete list of all the talks, only the ones I took the most notes on.
 
 ### Baruco
 
@@ -110,6 +111,7 @@ This was the most visually-appealing talk of the conference for me. I strongly r
 
 
 
+######Footnotes
  <b id="f1" > 1 </b> I attended [Goruco](http://goruco.com/), a one day Ruby conference in New York City, earlier this summer. [↩](#a1)
  <b id="f2" > 2 </b> Just stick a bunch of stuff into this hash without thinking about it then when you want to pull something out it's like a bag of glass. [↩](#a2)
  <b id="f3" > 3 </b> [Who Should Pay?](https://www.aaron-gustafson.com/notebook/who-should-pay/) [↩](#a3)
