@@ -11,4 +11,4 @@ Disclaimer: this was my first multi-day conference <sup id="a1">[1](#f1)</sup>, 
 ### Future JS
 
 
- <b id="f1>1</b> I attended [Goruco](http://goruco.com/), a one day Ruby conference in New York City, earlier this summer. [↩](#a1)
+ <b id="f1" > 1 </b> I attended [Goruco](http://goruco.com/), a one day Ruby conference in New York City, earlier this summer. [↩](#a1)
