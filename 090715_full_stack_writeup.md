@@ -23,7 +23,7 @@ Disclaimer: this was my first multi-day conference <sup id="a1">[1](#f1)</sup>, 
 - In Spain, it's 'el OL' #lol
 
 ####Aaron Quint - "Beyond JSON: Improving inter-app communication" 
-[@aq](https://twitter.com/aq) | (Slides!)[https://speakerdeck.com/aq/beyond-json-improving-inter-app-communication]
+[@aq](https://twitter.com/aq) | [Slides!](https://speakerdeck.com/aq/beyond-json-improving-inter-app-communication)
 - JSON is easy at first... but as apps get more complex it can become a 'bag of glass'<sup id="aq">[aq](#aq2)</sup>.
 ![Alt bag of glass](http://assets.podomatic.net/ts/24/94/ff/eriknovak00/285%3E_8220534.jpg?1420722724)
 - Protocol Buffers are worth checking out
@@ -45,11 +45,11 @@ alt="RailsConf 2015 - Nothing is Something" width="240" height="180" border="10"
 - I should probably learn (Smalltalk)[https://en.wikipedia.org/wiki/Smalltalk]
 
 ####Ernie Miller - "How to build a skyscraper"
-[@erniemiller](https://twitter.com/erniemiller) | (Slides!)[https://speakerdeck.com/erniemiller/how-to-build-a-skyscraper]
+[@erniemiller](https://twitter.com/erniemiller) | [Slides!](https://speakerdeck.com/erniemiller/how-to-build-a-skyscraper)
 - We can learn lessons about how to craft software well from unexpected places: such as skyscraper building (see slides)
 
 ####Piotr Solnica - "Blending Functional and OO Programming in Ruby"
-[@_solnic_](https://twitter.com/_solnic_) | (Slides!)[https://speakerdeck.com/solnic/blending-functional-and-oo-programming-in-ruby]
+[@_solnic_](https://twitter.com/_solnic_) | [Slides!](https://speakerdeck.com/solnic/blending-functional-and-oo-programming-in-ruby)
 - Prefer stateless Objects and use injection dependency
 - Get rid of mutable objects. Once you instantiate something, it must be 'ready' because you can't change it later on.
 - Objects should only have one single public method (e.g. #call(input))
