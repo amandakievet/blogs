@@ -1,13 +1,13 @@
 # Full Stack Fest
 ![Full Stack Fest pic](https://s3-us-west-2.amazonaws.com/akievetphotos/fullstack.JPG)
 
-### Overview
+## Overview
 
 Last week, I attended [Full Stack Fest](http://fullstackfest.com/) in beautiful Barcelona. Full Stack Fest is actually two seperate conferences -- Baruco (Barcelona Ruby Conf), and Future JS -- with a day of workshops in between. There were also 4 nights of sponsored meetups/parties where I got the chance to mingle with international Rubyists and Javascripters.
 
 Disclaimer: this was my first multi-day conference <sup id="a1">[1](#f1)</sup> so I don't have a lot of conference experience off of which to base my opinions. It seemed like most attendees agreed though when I say FSF was superbly-organized. Also note that this is not a complete list of all the talks, only the ones I took the most notes on.
 
-### Baruco
+## Baruco
 
 ####Davy Stevenson - "Orders of Magnitude" - [@davystevenson](https://twitter.com/davystevenson)
 - Our brains are not good with big and small numbers. As web developers we have to work in the world of trillionths and trillions so we need to rely on tools instead of our intuition when calculating probabilities. 
@@ -82,7 +82,7 @@ He then created some [challenges](https://github.com/jcinnamond/oo-ruby) to try 
 
 ---
 
-### Future JS
+## Future JS
 
 ####Rachel Andrew - "The Business of Front End Development" - [@rachelandrew](https://twitter.com/rachelandrew)
 - Learn and teach the basics first: HTML, CSS, and JavaScript. The rest is just workflow.
