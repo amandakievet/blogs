@@ -25,6 +25,8 @@ Disclaimer: this was my first multi-day conference <sup id="a1">[1](#f1)</sup> s
 - We should eliminate Middleware and encourage competition, or different types of Middleware for different purposes.
 - In Spain, it's 'el OL' #lol
 
+![Aaron Lol](https://s3-us-west-2.amazonaws.com/akievetphotos/aaronp.jpg)
+
 ---
 
 
@@ -44,6 +46,7 @@ Disclaimer: this was my first multi-day conference <sup id="a1">[1](#f1)</sup> s
 
 
 ####Sandi Metz - "Nothing is Something" - [@sandimetz](https://twitter.com/sandimetz)
+![Sandi Metz](https://s3-us-west-2.amazonaws.com/akievetphotos/sandimetz.jpg)
 - 'if' is an enabler. We should substitute a smarter object instead of checking for nil
 - An object does still have to contain a conditional sometimes, but it should be in the right place.
 - Inject the players. Use dependency injection. Run from inheritance because it will usually spiral out of control.
@@ -85,6 +88,8 @@ He then created some [challenges](https://github.com/jcinnamond/oo-ruby) to try 
 ## Future JS
 
 ####Rachel Andrew - "The Business of Front End Development" - [@rachelandrew](https://twitter.com/rachelandrew)
+![Rachel Andrew](https://s3-us-west-2.amazonaws.com/akievetphotos/rachel.jpg)
+
 - Learn and teach the basics first: HTML, CSS, and JavaScript. The rest is just workflow.
 -- *Don't become an expert in one brand of hammer. Become a master carpenter. Develop timeless skills*
 -- Don't listen to, or worse, become and evangelist for a tool. Having an understanding of the core tools helps you make a better decision.
@@ -125,6 +130,7 @@ Really good explanation of what a transducer is and how to use them. Check out t
 ---
 
 ####Steven Wittens - "The Pixel Factory" - [@unconed](https://twitter.com/unconed)
+![Steven Wittens](https://s3-us-west-2.amazonaws.com/akievetphotos/wittens.jpg)
 This was the most visually-appealing talk of the conference for me. I strongly recommend just taking a look at the slides since the talk was extremely mathematical, and Wittens' passion is using 3D graphics to explain complex math as it applies to rendering graphics.
 - Checkout [MathBox](https://github.com/unconed/MathBox.js), library for making math diagrams in WebGL
 - We can simulate warped space with graphics using differential geometry (so cool!) : `f(x, y, z, time, intensity) -> (x, y, z)`
@@ -135,7 +141,7 @@ This was the most visually-appealing talk of the conference for me. I strongly r
 ---
 
 
-
+![New Friends](https://s3-us-west-2.amazonaws.com/akievetphotos/newfriends.jpg)
 
 ######Footnotes
  <b id="f1" > 1 </b> I attended [Goruco](http://goruco.com/), a one day Ruby conference in New York City, earlier this summer. [↩](#a1)
